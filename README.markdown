@@ -1,6 +1,6 @@
 # pHash-0.9.6-patches
 
-pHash-0.9.6 release at 2013-04-23, but there are 2 major problems for certain usage, so I patches:
+pHash-0.9.6 was released at 2013-04-23, but there are 2 major problems for certain usage, so I patches:
 
 1. Compatible with new PHP version (Compile/Install passed).
 2. Change `ph_dct_imagehash()` function to return hash string for further operation.
